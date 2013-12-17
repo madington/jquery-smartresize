@@ -1,0 +1,5 @@
+{
+  "name": "jquery-smartresize",
+  "version": "0.1.0",
+  "main": "jquery.debouncedresize.js"
+}
